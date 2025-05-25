@@ -22,9 +22,13 @@ Passionate about building intelligent systems that connect hardware and AI.
 ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square)
 ![YOLO](https://img.shields.io/badge/-YOLO-black?style=flat-square)
 ![Gradio](https://img.shields.io/badge/-Gradio-FF7043?style=flat-square)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask)
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
-![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square)
+![Numpy](https://img.shields.io/badge/-Numpy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat-square&logo=matplotlib&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Seaborn](https://img.shields.io/badge/-Seaborn-4B8BBE?style=flat-square&logo=python&logoColor=white)
+![MediaPipe](https://img.shields.io/badge/-MediaPipe-F79C00?style=flat-square&logo=google&logoColor=white)
+![YOLO](https://img.shields.io/badge/-YOLO-00FFFF?style=flat-square&logo=darkreader&logoColor=black)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 
 ---
 
