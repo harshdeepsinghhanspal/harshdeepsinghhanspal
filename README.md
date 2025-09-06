@@ -16,6 +16,7 @@ Passionate about building intelligent systems that connect hardware and AI.
 ### 🤖 Robotics & Embedded
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=raspberry-pi&logoColor=white)
+![ROS2](https://img.shields.io/badge/-ROS2-22314E?style=flat-square&logo=ros&logoColor=white)
 ![ESP32](https://img.shields.io/badge/-ESP32-gray?style=flat-square)
 
 ### 🎯 Frameworks & Tools
