@@ -21,7 +21,6 @@ Passionate about building intelligent systems that connect hardware and AI.
 
 ### 🎯 Frameworks & Tools
 ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square)
-![YOLO](https://img.shields.io/badge/-YOLO-black?style=flat-square)
 ![Gradio](https://img.shields.io/badge/-Gradio-FF7043?style=flat-square)
 ![Numpy](https://img.shields.io/badge/-Numpy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat-square&logo=matplotlib&logoColor=white)
@@ -30,11 +29,12 @@ Passionate about building intelligent systems that connect hardware and AI.
 ![MediaPipe](https://img.shields.io/badge/-MediaPipe-F79C00?style=flat-square&logo=google&logoColor=white)
 ![YOLO](https://img.shields.io/badge/-YOLO-00FFFF?style=flat-square&logo=darkreader&logoColor=black)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![CrewAI](https://img.shields.io/badge/-CrewAI-800080?style=flat-square&logo=apachespark&logoColor=white)
 
 ---
 
 ## 🧠 Projects
-
+- 🚀 [DEPLOYED: Space Chatbot](https://github.com/harshdeepsinghhanspal/Space_Chatbot_Deployment)
 - 🔗 [LLM Multi-Doc Chatbot (LangChain + Groq)](https://github.com/harshdeepsinghhanspal/Multidocument_LLM_Groq_Llama3-1_Streamlit)
 - 🗣️ [Speech to Speech AI Chatbot](https://github.com/harshdeepsinghhanspal/Speech_to_Speech)
 - 🎮 [AI Servo Turret using OpenCV & Arduino](https://projecthub.arduino.cc/harshdeepsingh/controlling-servo-motors-with-the-help-of-ai-5a18db)
